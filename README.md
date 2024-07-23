@@ -2,7 +2,8 @@
 🎓 [Computer Science] student at Beijing Institute of Technology
 🌱 Trying to learn a little of everything
 
-[!Catpool's Github Stats]((https://streak-stats.demolab.com/?user=catp00l)](https://git.io/streak-stats)
+[!Catpool's Github Stats](https://github-stats.vercel.app/api?username=catp00l&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
+(https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
