@@ -1,4 +1,9 @@
-## Hi there 👋
+### Hi, I'm Santos! aka.Catpool!
+🎓 [Computer Science] student at Beijing Institute of Technology
+🌱 Trying to learn a little of everything
+
+[!Catpool's Github Stats]((https://streak-stats.demolab.com/?user=Catp00l)](https://git.io/streak-stats)
+
 
 <!--
 **catp00l/catp00l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
