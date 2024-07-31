@@ -1,9 +1,13 @@
-### Hi, I'm Santos! aka.Catpool!
-🎓 [Computer Science] student at Beijing Institute of Technology
-🌱 Trying to learn a little of everything
+### >>> Print("Hello World !");
+Hi, My name is Wilson Pina, everyone knows me by my nickname Santos, but here you may address me as "The Astonishing Catpool"😄. Jokes aside this GitHub its a Repository of all my Projects / Homework / Crazy stuff  I've made. 
 
-[!Catpool's Github Stats](https://github-stats.vercel.app/api?username=catp00l&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
-(https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+🎓 [Computer Science] student at Beijing Institute of Technology
+
+🌱 Trying to learn a little of everything
 
 
 <!--
